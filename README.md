@@ -1,6 +1,8 @@
 # Manipulate composer.json with Beautiful Object API
 
-[![Downloads total](https://img.shields.io/packagist/dt/symplify/composer-json-manipulator.svg?style=flat-square)](https://packagist.org/packages/symplify/composer-json-manipulator/stats)
+The original code for this repository is now marked as deprecated, I use this fork simply to avoid seeing the deprecation warning.
+
+see https://github.com/deprecated-packages/composer-json-manipulator
 
 - load to `composer.json` to an object
 - use handful methods
@@ -57,12 +59,3 @@ class SomeClass
 }
 ```
 
-<br>
-
-## Report Issues
-
-In case you are experiencing a bug or want to request a new feature head over to the [Symplify monorepo issue tracker](https://github.com/symplify/symplify/issues)
-
-## Contribute
-
-The sources of this package are contained in the Symplify monorepo. We welcome contributions for this package on [symplify/symplify](https://github.com/symplify/symplify).
