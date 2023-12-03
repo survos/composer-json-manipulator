@@ -12,7 +12,7 @@ see https://github.com/deprecated-packages/composer-json-manipulator
 ## Install
 
 ```bash
-composer require symplify/composer-json-manipulator
+composer require tacman/composer-json-manipulator
 ```
 
 Add to your `config/config.php`:
